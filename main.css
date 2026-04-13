@@ -1,0 +1,8 @@
+.Titulo{
+    display: flex;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: blueviolet;
+    justify-content: center;
+}
